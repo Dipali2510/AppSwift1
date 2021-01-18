@@ -1,0 +1,22 @@
+{
+    "relationships": [
+        {
+            "relationshipId": 1,
+            "relationshipName": "TestTable1_Column1",
+            "otherEntityName": "TestTable2",
+            "relationshipType": "one-to-one",
+            "otherEntityField": "Column2",
+            "ownerSide": "NA"
+        }
+    ],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "Column1",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "1610961193565",
+    "dto": "no",
+    "pagination": "no"
+}
